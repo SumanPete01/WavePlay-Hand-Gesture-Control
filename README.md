@@ -38,11 +38,12 @@ Real-time touch-free computer interaction using hand gestures with **92% accurac
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/WavePlay-Hand-Gesture-Control.git
+git clone https://github.com/SumanPete01/WavePlay-Hand-Gesture-Control.git
 cd WavePlay-Hand-Gesture-Control
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run application
+
 python waveplay.py
